@@ -2,6 +2,7 @@
 
 This repository contains my solutions to **LeetCode problems** in C.  
 I am learning **Data Structures & Algorithms (DSA)** step by step.  
+Topics I have covered are Linked List , Stack , Queue , Sorting , Binary Search ....
 
 ## ✅ Problems Solved
 
