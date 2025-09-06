@@ -10,3 +10,16 @@ Topics I have covered are Linked List , Stack , Queue , Sorting , Binary Search 
 |-----|---------------------|------------|-----------------------------------------------|
 | 206 | Reverse Linked List | Easy       | Reverse a singly linked list.                 |
 | 704 | Binary Search       | Easy       | Search target in a sorted array using O(logn).|
+
+
+# 🚀 LeetCode Solutions in Python 🐍
+
+This repository contains my solutions to **LeetCode problems** in Python.  
+I am learning **Data Structures & Algorithms (DSA)** step by step.  
+Topics I have covered are Sorting , Binary Search ....
+
+## ✅ Problems Solved
+
+| #   | Problem Name        | Difficulty | Description                                   |
+|-----|---------------------|------------|-----------------------------------------------|
+| 704 | Binary Search       | Easy       | Search target in a sorted array using O(logn).|
