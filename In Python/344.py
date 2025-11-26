@@ -1,12 +1,14 @@
 class Solution(object):
-    def reverseString(self, s):
+    def merge(self, nums1, m, nums2, n):
         """
-        :type s: List[str]
-        :rtype: None Do not return anything, modify s in-place instead.
+        :type nums1: List[int]
+        :type m: int
+        :type nums2: List[int]
+        :type n: int
+        :rtype: None Do not return anything, modify nums1 in-place instead.
         """
-        left = 0
-        right = len(s) - 1
-        while left < right:
-            s[left], s[right] = s[right] , s[left]
-            left += 1
-            right -= 1
+        result = nums1[:m] + nums2[:n]
+        result.sort()
+        for i in range(len(result)):
+            nums1[i] = result[i]
+        return result
