@@ -12,6 +12,7 @@ Topics I have covered are Sorting , Binary Search ....
 | 344 | Reverse String      | Easy       | The idea is to swap characters from both ends of the string, moving toward the center. By placing pointers at the start and end, we can efficiently reverse the string in-place without needing extra space.Time complexity: O(n).|
 | 088 | Merge Sorted Array  | Easy       | The problem requires merging two sorted arrays into one sorted array. The simplest approach is to first copy all elements from nums2 into the empty space at the end of nums1, then sort the entire array. This leverages Python's built-in sorting rather than manually merging. |
 | 3754 | Concatenate Non-Zero Digits & Multiply by Sum 1  | Easy       |The problem requires processing a number by removing zeros and then performing calculations on the remaining digits. We need to find both the number formed by non-zero digits and the sum of those digits, then multiply them together. |
+| 349 | Intersection of Two Arrays     | Easy       | The problem required finding common elements between two arrays. Using Python's built-in set data structure is ideal since sets automatically handle duplicates and provide efficient intersection operations.|
 
 
 # 🚀 LeetCode Solutions in C
