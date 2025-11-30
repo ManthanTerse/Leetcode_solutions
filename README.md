@@ -1,29 +1,28 @@
 # 🚀 LeetCode Solutions in Python 🐍
 
-This repository contains my solutions to **LeetCode problems** in Python.  
+This repository contains my solutions to **LeetCode problems** in *Python*.  
 I am learning **Data Structures & Algorithms (DSA)** step by step.  
-Topics I have covered are Sorting , Binary Search ....
 
 ## ✅ Problems Solved
 
-| #   | Problem Name        | Difficulty | Description                                   |
+| #   | Problem Name        | Difficulty | Link of the Solution                          |
 |-----|---------------------|------------|-----------------------------------------------|
-| 704 | Binary Search       | Easy       | The problem asks us to find the index of a given target in a sorted array. Since the array is sorted, the first thought is to use Binary Search, which is more efficient than a linear scan. Search target in a sorted array using O(logn).|
-| 344 | Reverse String      | Easy       | The idea is to swap characters from both ends of the string, moving toward the center. By placing pointers at the start and end, we can efficiently reverse the string in-place without needing extra space.Time complexity: O(n).|
-| 088 | Merge Sorted Array  | Easy       | The problem requires merging two sorted arrays into one sorted array. The simplest approach is to first copy all elements from nums2 into the empty space at the end of nums1, then sort the entire array. This leverages Python's built-in sorting rather than manually merging. |
-| 3754 | Concatenate Non-Zero Digits & Multiply by Sum 1  | Easy       |The problem requires processing a number by removing zeros and then performing calculations on the remaining digits. We need to find both the number formed by non-zero digits and the sum of those digits, then multiply them together. |
-| 349 | Intersection of Two Arrays     | Easy       | The problem required finding common elements between two arrays. Using Python's built-in set data structure is ideal since sets automatically handle duplicates and provide efficient intersection operations.|
+| 704 | Binary Search       | Easy       | [Binary_Search_In_Python](https://leetcode.com/problems/binary-search/solutions/7161699/binary-search-code-in-python-by-manthan_-kimj) |
+| 344 | Reverse String      | Easy       | [Reverse_String](https://leetcode.com/problems/reverse-string/solutions/7377380/reverse-string-by-manthan_terse-ggi0) |
+| 088 | Merge Sorted Array  | Easy       | [Merge Sorted Array Solution In Python](https://leetcode.com/problems/merge-sorted-array/solutions/7377259/merge-sorted-array-solution-in-python-by-0rp6) |
+| 3754 | Concatenate Non-Zero Digits & Multiply by Sum 1  | Easy       | [Concatenate Non-Zero Digits & Multiply by Sum 1 Using Python](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/solutions/7377294/concatenate-non-zero-digits-multiply-by-6wct3) |
+| 349 | Intersection of Two Arrays     | Easy       | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/solutions/7378774/intersection-of-two-arrays-by-manthan_te-dwvd) |
+| 069 | Sqrt(x)     | Easy       | [Sqrt(x) using Math built-in module](https://leetcode.com/problems/sqrtx/solutions/7380927/sqrtx-using-math-built-in-module-by-mant-dc5i) |
 
 
 # 🚀 LeetCode Solutions in C
 
-This repository contains my solutions to **LeetCode problems** in C.  
-I am learning **Data Structures & Algorithms (DSA)** step by step.  
-Topics I have covered are Linked List , Stack , Queue , Sorting , Binary Search ....
+This repository also contains my solutions to **LeetCode problems** in *C*.  
+I am learning **Data Structures & Algorithms (DSA)** step by step.  ....
 
 ## ✅ Problems Solved
 
-| #   | Problem Name        | Difficulty | Description                                   |
+| #   | Problem Name        | Difficulty |  Link of the Solution                         |
 |-----|---------------------|------------|-----------------------------------------------|
-| 206 | Reverse Linked List | Easy       | Reverse a singly linked list.                 |
-| 704 | Binary Search       | Easy       | Search target in a sorted array using O(logn).|
+| 206 | Reverse Linked List | Easy       | [Reverse Linked List Using C](https://leetcode.com/problems/reverse-linked-list/solutions/7116740/reverse-linked-list-using-c-by-manthan_t-c3g7)             |
+| 704 | Binary Search       | Easy       | [Binary Search Using C](https://leetcode.com/problems/binary-search/solutions/7116717/binary-search-using-c-by-manthan_terse-rs3c) |
