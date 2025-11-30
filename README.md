@@ -12,6 +12,7 @@ I am learning **Data Structures & Algorithms (DSA)** step by step.
 | 088 | Merge Sorted Array  | Easy       | [Merge Sorted Array Solution In Python](https://leetcode.com/problems/merge-sorted-array/solutions/7377259/merge-sorted-array-solution-in-python-by-0rp6) |
 | 3754 | Concatenate Non-Zero Digits & Multiply by Sum 1  | Easy       | [Concatenate Non-Zero Digits & Multiply by Sum 1 Using Python](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/solutions/7377294/concatenate-non-zero-digits-multiply-by-6wct3) |
 | 349 | Intersection of Two Arrays     | Easy       | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/solutions/7378774/intersection-of-two-arrays-by-manthan_te-dwvd) |
+| 069 | Sqrt(x)     | Easy       | [Sqrt(x) using Math built-in module](https://leetcode.com/problems/sqrtx/solutions/7380927/sqrtx-using-math-built-in-module-by-mant-dc5i) |
 
 
 # 🚀 LeetCode Solutions in C
