@@ -12,7 +12,7 @@ I am learning **Data Structures & Algorithms (DSA)** step by step.
 | 088 | Merge Sorted Array  | Easy       | [Merge Sorted Array Solution In Python](https://leetcode.com/problems/merge-sorted-array/solutions/7377259/merge-sorted-array-solution-in-python-by-0rp6) |
 | 3754 | Concatenate Non-Zero Digits & Multiply by Sum 1  | Easy       | [Concatenate Non-Zero Digits & Multiply by Sum 1 Using Python](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/solutions/7377294/concatenate-non-zero-digits-multiply-by-6wct3) |
 | 349 | Intersection of Two Arrays     | Easy       | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/solutions/7378774/intersection-of-two-arrays-by-manthan_te-dwvd) |
-| 069 | Sqrt(x)     | Easy       | [Sqrt(x) using Math built-in module](https://leetcode.com/problems/sqrtx/solutions/7380927/sqrtx-using-math-built-in-module-by-mant-dc5i) |
+| 069 | Sqrt(x)     | Easy       | [Sqrt(x) w/o using built-in modules](https://leetcode.com/problems/sqrtx/solutions/7380927/sqrtx-using-math-built-in-module-by-mant-dc5i) |
 | 367 | Valid Perfect Square     | Easy       | [Valid Perfect Square  Memory: 0 ms, 12.26 MB , Beats : 98.27%](https://leetcode.com/problems/valid-perfect-square/solutions/7383125/valid-perfect-square-memory-1226-mb-beat-pxi3) |
 | 050 | Pow(x,n)    | Medium       | [Pow(x,n)(0 ms , 12.33 MB , Beats 86.45 %)](https://leetcode.com/problems/powx-n/solutions/7384888/powxn-0-ms-1233-mb-beats-8645-by-manthan-gu0t) |
 
