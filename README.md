@@ -5,7 +5,7 @@ I am learning **Data Structures & Algorithms (DSA)** step by step.
 
 ## ✅ Problems Solved
 
-| #   | Problem Name        | Difficulty | Link of the Solution                          |
+| Problem No.  | Problem Name        | Difficulty | Link of the Solution                          |
 |-----|---------------------|------------|-----------------------------------------------|
 | 704 | Binary Search       | Easy       | [Binary_Search_In_Python](https://leetcode.com/problems/binary-search/solutions/7161699/binary-search-code-in-python-by-manthan_-kimj) |
 | 344 | Reverse String      | Easy       | [Reverse_String](https://leetcode.com/problems/reverse-string/solutions/7377380/reverse-string-by-manthan_terse-ggi0) |
