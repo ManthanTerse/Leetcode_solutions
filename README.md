@@ -1,3 +1,5 @@
+### In this repo, I will be providing my Leetcode solutions in the language Python & C and for Databases : MySQL
+
 # 🚀 LeetCode Solutions in Python 🐍
 
 This repository contains my solutions to **LeetCode problems** in *Python*.  
@@ -15,6 +17,13 @@ I am learning **Data Structures & Algorithms (DSA)** step by step.
 | 069 | Sqrt(x)     | Easy       | [Sqrt(x) w/o using built-in modules](https://leetcode.com/problems/sqrtx/solutions/7380927/sqrtx-using-math-built-in-module-by-mant-dc5i) |
 | 367 | Valid Perfect Square     | Easy       | [Valid Perfect Square  Memory: 0 ms, 12.26 MB , Beats : 98.27%](https://leetcode.com/problems/valid-perfect-square/solutions/7383125/valid-perfect-square-memory-1226-mb-beat-pxi3) |
 | 050 | Pow(x,n)    | Medium       | [Pow(x,n)(0 ms , 12.33 MB , Beats 86.45 %)](https://leetcode.com/problems/powx-n/solutions/7384888/powxn-0-ms-1233-mb-beats-8645-by-manthan-gu0t) |
+
+
+# 🚀 LeetCode Solutions in SQL :
+| Problem No.  | Problem Name        | Difficulty | Link of the Solution                          |
+
+
+
 
 # 🚀 LeetCode Solutions in C
 
