@@ -27,7 +27,7 @@ I am learning **Data Structures & Algorithms (DSA)** step by step.
 | 075 | Sort Colors - Sort Colors Using Selection Sort Approach | Medium  | [Sort Colors Using Selection Sort Approach](https://leetcode.com/problems/sort-colors/solutions/7496123/sort-colors-using-selection-sort-approac-ypp2) |
 | 028  | Find the Index of the First Occurrence in a String | Easy   | [Find the Index of the First Occurrence in a String (One liner)](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/solutions/7496132/find-the-index-of-the-first-occurrence-i-sqo9) |
 | 202   | Happy Number | Easy   | [Happy Number](https://leetcode.com/problems/happy-number/solutions/7496247/happy-number-by-manthan_terse-ga90)   |
-| 122   | Best Time to Buy and Sell stock | Medium   | [Best Time to Buy and Sell Stock II (Multiple Transactions Allowed)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/7499380/best-time-to-buy-and-sell-stock-ii-multi-kb1n)   |
+| 122   | Best Time to Buy and Sell stock - 2 | Medium   | [Best Time to Buy and Sell Stock II (Multiple Transactions Allowed)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/7499380/best-time-to-buy-and-sell-stock-ii-multi-kb1n)   |
 | 001   | Two Sum | Easy   | [Two Sum - Brute Force Solution](https://leetcode.com/problems/two-sum/solutions/7500870/two-sum-brute-force-solution-by-manthan_-6iov)   |
 
 
