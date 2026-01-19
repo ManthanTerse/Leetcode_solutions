@@ -1,5 +1,8 @@
 ### In this repo, I will be providing my Leetcode solutions in the language Python & C and for Databases : MySQL
 
+# My Leetcode Profile Link :
+https://leetcode.com/u/manthan_terse/
+
 # 🚀 LeetCode Solutions in Python 🐍
 This repository contains my solutions to **LeetCode problems** in *Python*.  
 I am learning **Data Structures & Algorithms (DSA)** step by step.  
