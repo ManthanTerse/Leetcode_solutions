@@ -32,6 +32,11 @@ I am learning **Data Structures & Algorithms (DSA)** step by step.
 | 202   | Happy Number | Easy   | [Happy Number](https://leetcode.com/problems/happy-number/solutions/7496247/happy-number-by-manthan_terse-ga90)   |
 | 122   | Best Time to Buy and Sell stock - 2 | Medium   | [Best Time to Buy and Sell Stock II (Multiple Transactions Allowed)](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/solutions/7499380/best-time-to-buy-and-sell-stock-ii-multi-kb1n)   |
 | 001   | Two Sum | Easy   | [Two Sum - Brute Force Solution](https://leetcode.com/problems/two-sum/solutions/7500870/two-sum-brute-force-solution-by-manthan_-6iov)   |
+| 066   | Plus One | Easy   | [Plus_One](https://leetcode.com/problems/plus-one/solutions/7504405/plus-one-1-jan26-by-manthan_terse-pg97)   |
+| 169   | Majority Element | Easy   | [Majority_Element_(Sorting_Approach)](https://leetcode.com/problems/majority-element/solutions/7526527/majority-element-sorting-approach-by-man-586r)   |
+| 118   | Pascal's Triangle | Easy   | [Pascal's Triangle Generation](https://leetcode.com/problems/pascals-triangle/solutions/7526540/pascals-triangle-generation-by-manthan_t-zcvb)   |
+| 055   | Jump Game | Medium   | ["Jump Game" Problem](https://leetcode.com/problems/jump-game/solutions/7526562/jump-game-problem-by-manthan_terse-99fb)   |
+| 151   | Reverse Words in a String | Medium   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/solutions/7526551/reverse-words-in-a-string-by-manthan_ter-vnc3)   |
 
 
 
