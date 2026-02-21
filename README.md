@@ -37,6 +37,9 @@ I am learning **Data Structures & Algorithms (DSA)** step by step.
 | 118   | Pascal's Triangle | Easy   | [Pascal's Triangle Generation](https://leetcode.com/problems/pascals-triangle/solutions/7526540/pascals-triangle-generation-by-manthan_t-zcvb)   |
 | 055   | Jump Game | Medium   | ["Jump Game" Problem](https://leetcode.com/problems/jump-game/solutions/7526562/jump-game-problem-by-manthan_terse-99fb)   |
 | 151   | Reverse Words in a String | Medium   | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/solutions/7526551/reverse-words-in-a-string-by-manthan_ter-vnc3)   |
+| 268   | Missing Number | Easy   | [Missing_Number](https://leetcode.com/problems/missing-number/solutions/7541643/missing-number-by-manthan_terse-zant)   |
+| 3010   | Divide an Array Into Subarrays With Minimum Cost 1  | Easy   | [Divide an Array Into Subarrays With Minimum Cost 1](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/solutions/7543460/divide-an-array-into-subarrays-with-mini-xtnh)   |
+| 1518   | Water Bottles | Easy   | [Number_of_bottles](https://leetcode.com/problems/water-bottles/solutions/7594648/number-of-water-bottles-by-manthan_terse-t8ly)   |
 
 
 
