@@ -42,7 +42,7 @@ I am learning **Data Structures & Algorithms (DSA)** step by step.
 | 1518   | Water Bottles | Easy   | [Number_of_bottles](https://leetcode.com/problems/water-bottles/solutions/7594648/number-of-water-bottles-by-manthan_terse-t8ly)   |
 | 1502   | Can Make Arithmetic Progression From Sequence | Easy   | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/solutions/7624542/can-make-arithmetic-progression-from-seq-7xru)   |
 | 09   | Palindrome Number | Easy   | [ Valid Palindrome Number ](https://leetcode.com/problems/palindrome-number/solutions/7624552/valid-palindrome-number-by-manthan_terse-zk31)   |
-| 263  | Ugy Number | Easy   | [ Ugly Number ](https://leetcode.com/problems/ugly-number/solutions/7631785/ugly-number-by-manthan_terse-6os8)   |
+| 263  | Ugly Number | Easy   | [ Ugly Number ](https://leetcode.com/problems/ugly-number/solutions/7631785/ugly-number-by-manthan_terse-6os8)   |
 
 
 
